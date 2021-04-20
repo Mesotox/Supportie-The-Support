@@ -1,0 +1,10 @@
+Hier ist eine Liste Mit Commands des Bot´s
+
+$help            Zeigt das Help menu an
+$create <Grund>  Erstellt ein Ticket
+$addsetup        Aktiviert das Adding Setup
+$removesetup     Aktiviert das Remove Setup
+$errors          Zeigt dir Errors
+
+When you write after the commnad _eng can you read The Englisch commands ($test_eng) not a function command :)
+
