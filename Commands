@@ -2,6 +2,12 @@ Hier ist eine Liste Mit Commands des Bot´s
 
 $help            Zeigt das Help menu an
 $create <Grund>  Erstellt ein Ticket
+$setup           Aktiviert das Setup
 
-When you write after the commnad _eng can you read The Englisch commands ($test_eng) not a function command :)
+Wichtige Info
+Um die Commnads Für Ping/Zuriff rollen zu ändern Müssen sie erst "$add_admin_role <Role-ID>" eingeben. Dafür benötigen sie Die Servereigentümer Rechte
+Der add_admin command Ist dafür da das Man Den Bot auf diesem Server mnagen kann
+
+
+
 
